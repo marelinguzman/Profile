@@ -1,0 +1,151 @@
+.telefono {
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    left: 0;
+    margin: auto;
+    grid-template-rows: 11.8rem 20.9rem 41.4rem 15.5rem;
+    background-color: var(--color2);
+}
+.div1{
+    margin-top: 4.2rem;
+}
+.regresar{
+    width: 6.8rem;
+    height: 2.3rem;
+}
+.titulo-div1{
+    width: 13.6rem;
+    height: 3rem;
+    font-size: 2rem;
+    padding-left: 10rem;
+    font-weight: bold;
+}
+.perfil{
+    width: 34.1rem;
+    height: 9.7rem;
+    border-radius: 2.5rem;
+    background-color: var(--color1);
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+.fotoPerfil2{
+    width: 7.9rem;
+    height: 7.7rem;
+    padding-left: 1.6em;
+    padding-top: 1.5rem;
+}
+.textos2{
+    margin-left: 3.9rem;
+    margin-top: 2rem;
+    width: 5.1rem;
+    height: 2.6rem;
+    background-color: var(--color2);
+    border-radius: 1.97rem;
+    color: var(--color1);
+    display: flex;
+    font-size: 1.5rem;
+    justify-content: center;
+    align-items: center;
+}
+.textos{
+    color: var(--color2);
+    display: flex;
+    margin-left: 0.7rem;
+    margin-top: 1.8rem;
+}
+.text1{
+    font-weight: bold;
+    font-size: 2rem;
+}
+.text2{
+    font-size: 1.298rem;
+}
+.div3{
+    margin: auto;
+}
+.informations{
+    display: flex;
+    align-items: center;
+    height: 9.7rem;
+    width: 29.7rem;
+    border-bottom: 1px solid var(--color5);
+    font-size: 1.5rem;
+}
+.imgInformations{
+    width: 2.8rem;
+    height: 2.8rem;
+    margin: auto;
+}
+.security{
+    display: flex;
+    align-items: center;
+    height: 9.7rem;
+    width: 29.7rem;
+    border-bottom: 1px solid var(--color5);
+    font-size: 1.5rem;
+}
+.imgSecurity{
+    width: 4.1rem;
+    height: 3.2rem;
+    margin: auto;
+}
+.contactUs{
+    display: flex;
+    align-items: center;
+    height: 9.7rem;
+    width: 29.7rem;
+    border-bottom: 1px solid var(--color5);
+    font-size: 1.5rem;
+}
+.imgContactUs{
+    width: 2.9rem;
+    height: 3.5rem;
+    margin: auto;
+}
+.help-suport{
+    display: flex;
+    align-items: center;
+    height: 9.7rem;
+    width: 29.7rem;
+    border-bottom: 1px solid var(--color5);
+    font-size: 1.5rem;
+}
+.imgHelp-suport{
+    width: 3rem;
+    height: 3.9rem;
+    margin: auto;
+}
+.div5{
+    display: flex;
+    width: 6.4rem;
+    height: 5.7rem;
+    background-color: var(--color4);
+    border-radius: 0.6rem;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1.8rem;
+}
+.piePagina{
+    margin: auto;
+    width: 37.9rem;
+    height: 8.2rem;
+    border-radius: 2.5rem;
+    background-color: var(--color1);
+    display: flex;
+    color: var(--color2);
+    align-items: center;    
+    font-size: 2rem;
+    margin-top: 2.7rem;
+}
+.flecha{
+    width: 7rem;
+    height: 5.6rem;
+    margin-right: 21.5rem;
+    margin-top: 1rem;
+}
+.ipertexto{
+    color: var(--color2);
+    text-decoration: none;
+}
